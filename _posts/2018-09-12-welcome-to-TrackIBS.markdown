@@ -14,3 +14,5 @@ Please support this project by :
 * Contributing code via a Pull Request - [TrackIBS Pull Request](https://github.com/trackibs/TrackIBS/pulls)
 
 * Joining the community at - [TrackIBS Reddit](https://www.reddit.com/r/trackibs)
+
+* Join the Chat Room - [TrackIBS Chat Room](https://s.reddit.com/channel/29674584_9a9f8d598e5a5fdcb2a0846e6421f823fc24e00c)
