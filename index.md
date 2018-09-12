@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+<img src="images/TrackIBS.jpg" width="100px" height="100px" alt="TrackIBS">
